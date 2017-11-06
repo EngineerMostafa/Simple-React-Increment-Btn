@@ -1,6 +1,6 @@
-###Simple-React-Increment-Btn
+Simple-React-Increment-Btn
 
-##Based on Create-React-App
+Based on Create-React-App
 
 > npm install
 
